@@ -30,4 +30,5 @@ bin/
 .DS_Store
 
 ### Project ###
-db/
+/db/
+/.idea/
